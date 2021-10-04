@@ -1,0 +1,66 @@
+.ant-select-single.ant-select-lg:not(.ant-select-customize-input) .ant-select-selector {
+    border-radius: 10px;
+}
+
+.primary-button {
+    width: 100%;
+    background-color: #5640ff;
+    border-color: #5640ff;
+}
+
+.primary-button:hover {
+    background-color: #5640ff;
+    border-color: #5640ff;
+}
+
+.primary-button:focus {
+    background-color: #5640ff;
+    border-color: #5640ff;
+}
+
+.ant-btn-lg {
+    height: 60px !important;
+}
+
+.sidebar-trigger {
+    font-size: 18px;
+    line-height: 64px;
+    padding: 0 24px;
+    cursor: pointer;
+    transition: color 0.3s;
+}
+
+.main-header {
+    box-shadow: 0px 1px 4px rgba(0, 21, 41, 0.12);
+    background: white;
+    padding: 0;
+}
+
+span.anticon.anticon-menu-fold.sidebar-trigger {
+    color: #2b3797;
+}
+
+span.anticon.anticon-menu-unfold.sidebar-trigger {
+    color: #2b3797;
+}
+
+.ant-layout-sider {
+    background-color: #2b3797;
+}
+
+.ant-menu.ant-menu-dark {
+    background-color: #2b3797;
+}
+
+.ant-menu-dark.ant-menu-dark:not(.ant-menu-horizontal) .ant-menu-item-selected {
+    background-color: #4f5bb3;
+}
+
+.logo-navbar {
+    margin: 16px;
+    background: rgba(255, 255, 255, 0.3);
+}
+
+.ant-layout-content {
+    overflow-y: auto;
+}
